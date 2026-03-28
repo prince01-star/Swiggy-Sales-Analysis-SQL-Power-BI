@@ -179,14 +179,8 @@ SQL Script Included: `Swiggy.sql`
 * `Swiggy.pdf` → Dashboard preview
 * `README.md` → Documentation
 
-
-## Dashboard Preview
-
-```
-
-
-
-```
+## Dashboard Image
+<img width="1914" height="892" alt="Swiggy Dasgboard" src="https://github.com/user-attachments/assets/0bda77f9-6c68-4e75-acb2-30d4bebafb0a" />
 
 
 ## Key Learnings
