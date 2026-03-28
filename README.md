@@ -183,7 +183,7 @@ SQL Script Included: `Swiggy.sql`
 ## Dashboard Preview
 
 ```
-<img width="1914" height="892" alt="Screenshot 2026-03-29 004138" src="https://github.com/user-attachments/assets/fd7b717c-7389-4106-a83c-275ba9795e01" />
+
 
 ```
 
